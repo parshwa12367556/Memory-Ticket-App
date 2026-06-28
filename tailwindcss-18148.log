@@ -1,0 +1,128 @@
+2026-06-11T08:46:09.913601Z  INFO tailwindcss_oxide::scanner: Provided sources:
+2026-06-11T08:46:09.914432Z  INFO tailwindcss_oxide::scanner: Source: PublicSourceEntry { base: "C:/Users/Parsh/Downloads/memory-ticket-app-prompt", pattern: "**/*", negated: false }
+2026-06-11T08:46:09.915474Z  INFO tailwindcss_oxide::scanner: Optimized sources:
+2026-06-11T08:46:09.915512Z  INFO tailwindcss_oxide::scanner: Source: Auto { base: "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt" }
+2026-06-11T08:46:09.926869Z  INFO scan_sources: tailwindcss_oxide::scanner: enter
+2026-06-11T08:46:09.927893Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\.idea"
+2026-06-11T08:46:09.928676Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\.idea\\caches"
+2026-06-11T08:46:09.929032Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\.idea\\caches\\deviceStreaming.xml"
+2026-06-11T08:46:09.929275Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\.idea\\deviceManager.xml"
+2026-06-11T08:46:09.929443Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\.idea\\memory-ticket-app-prompt.iml"
+2026-06-11T08:46:09.929599Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\.idea\\misc.xml"
+2026-06-11T08:46:09.929713Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\.idea\\modules.xml"
+2026-06-11T08:46:09.929831Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\index.html"
+2026-06-11T08:46:09.930136Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\package.json"
+2026-06-11T08:46:09.930275Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\public"
+2026-06-11T08:46:09.930418Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\public\\icon.svg"
+2026-06-11T08:46:09.930525Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\README.md"
+2026-06-11T08:46:09.930647Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src"
+2026-06-11T08:46:09.931095Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\App.tsx"
+2026-06-11T08:46:09.931227Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\components"
+2026-06-11T08:46:09.931371Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\components\\BottomNav.tsx"
+2026-06-11T08:46:09.931468Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\components\\ErrorBoundary.tsx"
+2026-06-11T08:46:09.931545Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\components\\Particles.tsx"
+2026-06-11T08:46:09.931620Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\components\\Skeleton.tsx"
+2026-06-11T08:46:09.931742Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\components\\Ticket.tsx"
+2026-06-11T08:46:09.932015Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\hooks"
+2026-06-11T08:46:09.932165Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\hooks\\useTicketDownload.ts"
+2026-06-11T08:46:09.932313Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\hooks\\useTicketShare.ts"
+2026-06-11T08:46:09.932397Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\hooks\\useToast.tsx"
+2026-06-11T08:46:09.932499Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\index.css"
+2026-06-11T08:46:09.932568Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\main.tsx"
+2026-06-11T08:46:09.932694Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens"
+2026-06-11T08:46:09.932835Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\AddMemory.tsx"
+2026-06-11T08:46:09.932956Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\Auth.tsx"
+2026-06-11T08:46:09.933022Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\Gallery.tsx"
+2026-06-11T08:46:09.933087Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\Home.tsx"
+2026-06-11T08:46:09.933154Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\MemoryDetails.tsx"
+2026-06-11T08:46:09.933224Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\MoodAnalytics.tsx"
+2026-06-11T08:46:09.933296Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\Profile.tsx"
+2026-06-11T08:46:09.933361Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\Splash.tsx"
+2026-06-11T08:46:09.933429Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\Timeline.tsx"
+2026-06-11T08:46:09.933519Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\storage.ts"
+2026-06-11T08:46:09.933585Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\types.ts"
+2026-06-11T08:46:09.933699Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\utils"
+2026-06-11T08:46:09.933856Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\utils\\captions.ts"
+2026-06-11T08:46:09.933935Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\utils\\capture.ts"
+2026-06-11T08:46:09.934004Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\utils\\cn.ts"
+2026-06-11T08:46:09.934101Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\vite-env.d.ts"
+2026-06-11T08:46:09.934217Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\tsconfig.json"
+2026-06-11T08:46:09.934305Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\vite.config.ts"
+2026-06-11T08:46:09.934385Z  INFO scan_sources: tailwindcss_oxide::scanner: exit
+2026-06-11T08:46:09.934398Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2026-06-11T08:46:09.934434Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2026-06-11T08:46:09.934442Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 36 file(s)
+2026-06-11T08:46:09.935074Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\main.tsx"
+2026-06-11T08:46:09.935132Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\App.tsx"
+2026-06-11T08:46:09.935185Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\.idea\\caches\\deviceStreaming.xml"
+2026-06-11T08:46:09.935274Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\AddMemory.tsx"
+2026-06-11T08:46:09.935269Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\Timeline.tsx"
+2026-06-11T08:46:09.935332Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\components\\Skeleton.tsx"
+2026-06-11T08:46:09.935359Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\components\\BottomNav.tsx"
+2026-06-11T08:46:09.935463Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\.idea\\deviceManager.xml"
+2026-06-11T08:46:09.935576Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\components\\Ticket.tsx"
+2026-06-11T08:46:09.935613Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\.idea\\memory-ticket-app-prompt.iml"
+2026-06-11T08:46:09.935616Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\storage.ts"
+2026-06-11T08:46:09.935633Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\Auth.tsx"
+2026-06-11T08:46:09.935671Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\package.json"
+2026-06-11T08:46:09.935716Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\.idea\\modules.xml"
+2026-06-11T08:46:09.935749Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\Gallery.tsx"
+2026-06-11T08:46:09.935754Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\types.ts"
+2026-06-11T08:46:09.935754Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\hooks\\useTicketDownload.ts"
+2026-06-11T08:46:09.935797Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\.idea\\misc.xml"
+2026-06-11T08:46:09.935754Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\components\\Particles.tsx"
+2026-06-11T08:46:09.935833Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\index.html"
+2026-06-11T08:46:09.935851Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\public\\icon.svg"
+2026-06-11T08:46:09.935881Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\utils\\captions.ts"
+2026-06-11T08:46:09.935886Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\Home.tsx"
+2026-06-11T08:46:09.935905Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\vite-env.d.ts"
+2026-06-11T08:46:09.935905Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\hooks\\useTicketShare.ts"
+2026-06-11T08:46:09.935926Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\hooks\\useToast.tsx"
+2026-06-11T08:46:09.935962Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\MoodAnalytics.tsx"
+2026-06-11T08:46:09.935991Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\utils\\cn.ts"
+2026-06-11T08:46:09.936004Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\tsconfig.json"
+2026-06-11T08:46:09.936024Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\components\\ErrorBoundary.tsx"
+2026-06-11T08:46:09.936044Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\MemoryDetails.tsx"
+2026-06-11T08:46:09.936060Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\Profile.tsx"
+2026-06-11T08:46:09.936071Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\vite.config.ts"
+2026-06-11T08:46:09.936092Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens\\Splash.tsx"
+2026-06-11T08:46:09.936115Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\utils\\capture.ts"
+2026-06-11T08:46:09.936294Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\README.md"
+2026-06-11T08:46:09.936396Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2026-06-11T08:46:09.936416Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2026-06-11T08:46:09.936425Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2026-06-11T08:46:09.938022Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2026-06-11T08:46:09.938044Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2026-06-11T08:46:09.938052Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2026-06-11T08:46:09.938056Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 1 file(s)
+2026-06-11T08:46:09.938201Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\index.css"
+2026-06-11T08:46:09.938214Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2026-06-11T08:46:09.938223Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: enter
+2026-06-11T08:46:09.938228Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: enter
+2026-06-11T08:46:09.938339Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: exit
+2026-06-11T08:46:09.938360Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: exit
+2026-06-11T08:46:09.939165Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2026-06-11T08:46:09.940140Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2026-06-11T08:46:09.940154Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: enter
+2026-06-11T08:46:09.940844Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\.idea"
+2026-06-11T08:46:09.941248Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\.idea\\caches"
+2026-06-11T08:46:09.941947Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\public"
+2026-06-11T08:46:09.942291Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src"
+2026-06-11T08:46:09.942512Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\components"
+2026-06-11T08:46:09.942970Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\hooks"
+2026-06-11T08:46:09.943379Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens"
+2026-06-11T08:46:09.943971Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\utils"
+2026-06-11T08:46:09.944383Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: exit
+2026-06-11T08:46:09.944486Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2026-06-11T08:46:09.944709Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2026-06-11T08:46:09.944723Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: enter
+2026-06-11T08:46:09.945452Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\.idea"
+2026-06-11T08:46:09.945806Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\.idea\\caches"
+2026-06-11T08:46:09.946652Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\public"
+2026-06-11T08:46:09.947006Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src"
+2026-06-11T08:46:09.947237Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\components"
+2026-06-11T08:46:09.947619Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\hooks"
+2026-06-11T08:46:09.948041Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\screens"
+2026-06-11T08:46:09.948924Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Parsh\\Downloads\\memory-ticket-app-prompt\\src\\utils"
+2026-06-11T08:46:09.949521Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: exit
+2026-06-11T08:46:09.953350Z  INFO get_globs: tailwindcss_oxide::scanner: exit
