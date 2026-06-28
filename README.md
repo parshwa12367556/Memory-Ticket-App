@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Memory Ticket App
 
 A cinematic, offline-first memory vault built with React, Vite, and Tailwind CSS. Every memory deserves a ticket!
@@ -117,3 +118,6 @@ MIT
 <!-- npm run format -->
 <!-- npm run release -->
 <!-- npm run bump -->
+=======
+# Memory-Ticket-App
+>>>>>>> 1426be8d15286e358bca1fbbdf49adc1b97e336a
